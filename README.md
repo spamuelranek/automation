@@ -2,7 +2,7 @@
 - None
 
 ## Pull Request:
-[Pull Request 12/23/2021]()
+[Pull Request 12/23/2021](https://github.com/spamuelranek/automation/pull/1)
 
 ## Use:
 - The function will take in a path to a file
